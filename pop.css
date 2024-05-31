@@ -1,0 +1,32 @@
+#popup-window{
+    position: fixed;
+    width: 400px;
+    height: 600px;
+    background: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    display: none;
+}
+#pop-window-edit {
+    position: fixed;
+    width: 400px;
+    height: 600px;
+    background: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    display: none;
+} 
